@@ -1,5 +1,3 @@
 Nur noch Zeile 1 und 2
-
-
-
-Hallo, dies ist ein weiterer Text, nach 3 Leerzeilen
+und die nummer 3, was weiß ich...
+Dies ist dich echte Zeile 3
